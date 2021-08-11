@@ -1,0 +1,5 @@
+c:\users\jonas\documents\visual studio 2015\Projects\Ejemplo Clase 2\Ejemplo Clase 2 - While Do While\bin\Debug\Ejemplo Clase 2 - While Do While.exe.config
+c:\users\jonas\documents\visual studio 2015\Projects\Ejemplo Clase 2\Ejemplo Clase 2 - While Do While\bin\Debug\Ejemplo Clase 2 - While Do While.exe
+c:\users\jonas\documents\visual studio 2015\Projects\Ejemplo Clase 2\Ejemplo Clase 2 - While Do While\bin\Debug\Ejemplo Clase 2 - While Do While.pdb
+c:\users\jonas\documents\visual studio 2015\Projects\Ejemplo Clase 2\Ejemplo Clase 2 - While Do While\obj\Debug\Ejemplo Clase 2 - While Do While.exe
+c:\users\jonas\documents\visual studio 2015\Projects\Ejemplo Clase 2\Ejemplo Clase 2 - While Do While\obj\Debug\Ejemplo Clase 2 - While Do While.pdb

@@ -1,0 +1,5 @@
+c:\users\jonas\documents\visual studio 2015\Projects\Ejemplo Clase 2\Ejemplo Clase 2 - Switch\bin\Debug\Ejemplo Clase 2 - Switch.exe.config
+c:\users\jonas\documents\visual studio 2015\Projects\Ejemplo Clase 2\Ejemplo Clase 2 - Switch\bin\Debug\Ejemplo Clase 2 - Switch.exe
+c:\users\jonas\documents\visual studio 2015\Projects\Ejemplo Clase 2\Ejemplo Clase 2 - Switch\bin\Debug\Ejemplo Clase 2 - Switch.pdb
+c:\users\jonas\documents\visual studio 2015\Projects\Ejemplo Clase 2\Ejemplo Clase 2 - Switch\obj\Debug\Ejemplo Clase 2 - Switch.exe
+c:\users\jonas\documents\visual studio 2015\Projects\Ejemplo Clase 2\Ejemplo Clase 2 - Switch\obj\Debug\Ejemplo Clase 2 - Switch.pdb
